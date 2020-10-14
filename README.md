@@ -1,1 +1,1 @@
-This repo contains file code that I made for predicting Malaria Cell images dataset(Corrected) using VGG19 architecture with accuracy around 99%
+This repo contains file code that I made for predicting Malaria Cell images dataset(Corrected) from [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7277980/#B41-diagnostics-10-00329) using VGG19 architecture with accuracy around 99%.
